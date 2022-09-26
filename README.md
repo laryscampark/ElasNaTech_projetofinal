@@ -8,5 +8,5 @@ O Projeto Final é baseado na criação do nosso portifolio com informações so
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://laryscampark.github.io/ElasNaTech_projetofinal//)
 
