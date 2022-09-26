@@ -280,4 +280,11 @@
     .caixa-lista-sobre-mim {
       width: 100%;
     }
+
+    .caixa-item-rede-social{
+      width: 100%;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
   }
